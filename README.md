@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @aleksandrvasilyev
-- 👀 I’m interested in creating websites. 
-- 🌱 I’m currently learning python.
+
 
 
 <!---
