@@ -1,5 +1,10 @@
-## Hi there 👋
+### My projects
 
+- [**E-commerce API**](https://github.com/aleksandrvasilyev/ecommerce-api-nodejs) - Scalable API for managing products, product characteristics, orders, stock and users. It includes two-token authentication system.
+- [**Xero API + OpenAI + Redis + Typescript Demo**](https://github.com/aleksandrvasilyev/xero-open-ai-redis) - AI powered invoice categorization using Xero API and OpenAI.
+- [**Movies Explorer**](https://github.com/aleksandrvasilyev/react-movies) - React application to explode, search, filter movies by different options.
+  
+  
 <!--
 **aleksandrvasilyev/aleksandrvasilyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
