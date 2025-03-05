@@ -30,10 +30,6 @@ A passionate Full Stack Web Developer with a strong enthusiasm for building fast
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleksandr-vasyliev/)
-
 ## My projects
 
 - [**E-commerce API**](https://github.com/aleksandrvasilyev/ecommerce-api-nodejs) - A scalable Node.js/Express API for managing products, product attributes, orders, inventory, and users. It features a robust two-token authentication system, ensuring secure and efficient access.
