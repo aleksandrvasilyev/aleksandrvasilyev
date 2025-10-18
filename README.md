@@ -6,7 +6,7 @@ A passionate Full Stack Web Developer with a strong enthusiasm for building fast
 
 ## Languages and Tools
 
-HTML, CSS, TailwindCSS, JavaScript, TypeScript, Node.js, React, Next.js, Express, PHP, RESTful APIs, SQL, MySQL, PostgreSQL, MongoDB, Redis, Sequelize, Git/GitHub, Docker, CI/CD (GitHub Actions), Jest, Bash, Linux
+TypeScript, React, Next.js
 
 ## My projects
 
